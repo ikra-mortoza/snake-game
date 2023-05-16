@@ -1,2 +1,1 @@
-Play snake!! There are two modes, singleplayer and multiplayer. Don't hit the edges of the screen, or yourself! And eat as many apples as you can. Try to get more apples
-than your opponent :)
+A simple game of snake built with Python with two modes, singleplayer and multiplayer. 
